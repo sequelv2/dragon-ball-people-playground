@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2152553969
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b1dec078e5b0c7dbb8cbe423de35581
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 79f786ec140312af9ec009eebd4de22e
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Shaders/Motes.shader
+- Assets/Shaders/Coat.shader
+- Assets/Shaders/Chakra.shader
+- Assets/Shaders/Mantle.shader
+- Assets/Shaders/Orb.shader
+- Assets/Shaders/Tail.shader
+Dependencies: []

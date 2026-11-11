@@ -1,0 +1,14 @@
+C:\Users\zippe\AppData\Local\Temp\claude\6dbccf448f6535a6\caf0cfa6-3c18-4eec-b07f-950ad1a45047\scratchpad\install-out2\DragonBallSingularity.dll.config
+C:\Users\zippe\AppData\Local\Temp\claude\6dbccf448f6535a6\caf0cfa6-3c18-4eec-b07f-950ad1a45047\scratchpad\install-out2\DragonBallSingularity.dll
+C:\Users\zippe\AppData\Local\Temp\claude\6dbccf448f6535a6\caf0cfa6-3c18-4eec-b07f-950ad1a45047\scratchpad\install-out2\DragonBallSingularity.pdb
+C:\Program Files (x86)\People Playground\Mods\Dragon Ball Singularity\obj\Debug\DBPU.csproj.AssemblyReference.cache
+C:\Program Files (x86)\People Playground\Mods\Dragon Ball Singularity\obj\Debug\DBPU.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\People Playground\Mods\Dragon Ball Singularity\obj\Debug\DBPU.csproj.Up2Date
+C:\Program Files (x86)\People Playground\Mods\Dragon Ball Singularity\obj\Debug\DragonBallSingularity.dll
+C:\Program Files (x86)\People Playground\Mods\Dragon Ball Singularity\obj\Debug\DragonBallSingularity.pdb
+C:\Users\zippe\AppData\Local\Temp\dbs-noai-build\DragonBallSingularity.dll.config
+C:\Users\zippe\AppData\Local\Temp\dbs-noai-build\DragonBallSingularity.dll
+C:\Users\zippe\AppData\Local\Temp\dbs-noai-build\DragonBallSingularity.pdb
+C:\Users\zippe\AppData\Local\Temp\claude\6dbccf448f6535a6\07e01a19-0270-45df-8a41-7567c25a008f\scratchpad\build\DragonBallSingularity.dll.config
+C:\Users\zippe\AppData\Local\Temp\claude\6dbccf448f6535a6\07e01a19-0270-45df-8a41-7567c25a008f\scratchpad\build\DragonBallSingularity.dll
+C:\Users\zippe\AppData\Local\Temp\claude\6dbccf448f6535a6\07e01a19-0270-45df-8a41-7567c25a008f\scratchpad\build\DragonBallSingularity.pdb

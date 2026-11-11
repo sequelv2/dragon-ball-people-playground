@@ -1,0 +1,3558 @@
+{
+  "Name": "muidodgefour",
+  "Frames": [
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.0176907778,
+            "y": 0.986799,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00414236635,
+            "w": 0.9999914
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0156487226,
+            "y": 0.6774303,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00414228253,
+            "w": 0.9999914
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.01361382,
+            "y": 0.431605339,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.004135929,
+            "w": 0.999991536
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0112831593,
+            "y": 0.155573726,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00430279458,
+            "w": 0.9999908
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.008192062,
+            "y": -0.232910752,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00377552724,
+            "w": 0.9999929
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.00503659248,
+            "y": -0.6766211,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00329665188,
+            "w": 0.999994636
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": 0.0559414625,
+            "y": -0.9293175,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 3.25735746E-05,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.007324457,
+            "y": -0.233040452,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.005601672,
+            "w": 0.9999844
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.002252102,
+            "y": -0.6767911,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.005850859,
+            "w": 0.9999829
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": 0.0598325729,
+            "y": -0.92943573,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0127229691,
+            "y": 0.5607836,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00365358521,
+            "w": 0.9999933
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.00364124775,
+            "y": 0.152591825,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0178456642,
+            "w": 0.9998408
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0129508972,
+            "y": 0.5607822,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.002757496,
+            "w": 0.9999962
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.00541639328,
+            "y": 0.152549148,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0150509,
+            "w": 0.9998868
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.0939275,
+            "y": 0.9585085,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.146244526,
+            "y": 0.6534927,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0686576441,
+            "w": 0.9976403
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.16046679,
+            "y": 0.408718944,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.004135929,
+            "w": 0.999991536
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.15813601,
+            "y": 0.132687211,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00430279458,
+            "w": 0.9999908
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0858253241,
+            "y": -0.24501133,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.150860369,
+            "w": 0.9885551
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": 0.05650139,
+            "y": -0.6651646,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.176128671,
+            "w": 0.9843672
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": 0.189271688,
+            "y": -0.9045936,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 3.25735746E-05,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.140840411,
+            "y": -0.255310535,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0336211026,
+            "w": 0.9994347
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.12243259,
+            "y": -0.698508143,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.005850859,
+            "w": 0.9999829
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0603479147,
+            "y": -0.9511529,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.14182508,
+            "y": 0.5364456,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.00365358521,
+            "w": 0.9999933
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.132743359,
+            "y": 0.1282543,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0178456642,
+            "w": 0.9998408
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.142052889,
+            "y": 0.5364442,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.002757496,
+            "w": 0.9999962
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.134518385,
+            "y": 0.128211141,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0150509,
+            "w": 0.9998868
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.3763163,
+            "y": 0.907548666,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.428633451,
+            "y": 0.602532864,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0686576441,
+            "w": 0.9976403
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.40722537,
+            "y": 0.362892032,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.138491124,
+            "w": 0.9903637
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.321791172,
+            "y": 0.100591183,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1739809,
+            "w": 0.984749
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.05987966,
+            "y": -0.152272582,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.515555,
+            "w": 0.856856465
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": 0.106374025,
+            "y": -0.4646616,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.107884012,
+            "w": 0.9941635
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": 0.1206553,
+            "y": -0.712559462,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 3.25735746E-05,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.19892168,
+            "y": -0.267910361,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.151517808,
+            "w": 0.9884546
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.125362277,
+            "y": -0.7007154,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.005443683,
+            "w": 0.9999852
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.06344962,
+            "y": -0.953362465,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.354321718,
+            "y": 0.507045031,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.2912671,
+            "w": 0.9566418
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0392906666,
+            "y": 0.2895671,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.606398642,
+            "w": 0.7951608
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5243821,
+            "y": 0.5331824,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.43321076,
+            "w": 0.9012927
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6935985,
+            "y": 0.198228,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.04226947,
+            "w": 0.9991063
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.5117276,
+            "y": 0.8961054,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5640445,
+            "y": 0.5910896,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0686576441,
+            "w": 0.9976403
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.542636156,
+            "y": 0.351448774,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.138491124,
+            "w": 0.9903637
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.457201958,
+            "y": 0.0891479254,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1739809,
+            "w": 0.984749
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3677783,
+            "y": -0.287254572,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0797867849,
+            "w": 0.9968119
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4884708,
+            "y": -0.6532744,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.4261669,
+            "w": 0.904644549
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6118114,
+            "y": -0.8488207,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.1913107,
+            "w": 0.9815296
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3050505,
+            "y": -0.267989039,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.216387346,
+            "w": 0.976307631
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.151454091,
+            "y": -0.6824962,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1299462,
+            "w": 0.99152106
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0374468565,
+            "y": -0.9279001,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.48124814,
+            "y": 0.5018209,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.330613345,
+            "w": 0.943766356
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.1756171,
+            "y": 0.2411927,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.495263427,
+            "w": 0.8687429
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.645535,
+            "y": 0.506632447,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.3581,
+            "w": 0.9336833
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.8716214,
+            "y": 0.170913815,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.231338874,
+            "w": 0.9728733
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.655685663,
+            "y": 0.820269465,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6868479,
+            "y": 0.513502,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0184370335,
+            "w": 0.999830067
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6366298,
+            "y": 0.2759261,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.174767852,
+            "w": 0.984609663
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5418415,
+            "y": 0.0166693926,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1739809,
+            "w": 0.984749
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5933845,
+            "y": -0.3392874,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.222040057,
+            "w": 0.9750376
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.80745554,
+            "y": -0.7270471,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.281157225,
+            "w": 0.9596617
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.8650887,
+            "y": -0.9508519,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.03656139,
+            "w": 0.9993314
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.351310968,
+            "y": -0.317992926,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.306626976,
+            "w": 0.9518298
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.159334183,
+            "y": -0.710024834,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1299462,
+            "w": 0.99152106
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0453270674,
+            "y": -0.9554287,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6001713,
+            "y": 0.4294957,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.358086556,
+            "w": 0.9336884
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3015226,
+            "y": 0.15331161,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.438241839,
+            "w": 0.8988571
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.7581084,
+            "y": 0.419934273,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.3010102,
+            "w": 0.953621
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.8776953,
+            "y": 0.04682648,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.7029216,
+            "y": 0.7991909,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.72719264,
+            "y": 0.492649555,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0466968454,
+            "w": 0.9989092
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6635945,
+            "y": 0.258305669,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.202662483,
+            "w": 0.9792487
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5617404,
+            "y": 0.001868844,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1739809,
+            "w": 0.984749
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6132834,
+            "y": -0.354087949,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.222040057,
+            "w": 0.9750376
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.837036133,
+            "y": -0.735245347,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.308385551,
+            "w": 0.951261461
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.9046266,
+            "y": -0.9522953,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.03656139,
+            "w": 0.9993314
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.354531765,
+            "y": -0.319636464,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.348783433,
+            "w": 0.937203348
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.145876288,
+            "y": -0.6985109,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.1299462,
+            "w": 0.99152106
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.0318689346,
+            "y": -0.9439148,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6411116,
+            "y": 0.4087224,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.358086556,
+            "w": 0.9336884
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.342462778,
+            "y": 0.132538676,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.438241839,
+            "w": 0.8988571
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.799048662,
+            "y": 0.399160981,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.3010102,
+            "w": 0.953621
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.9186356,
+            "y": 0.02605319,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.535043955,
+            "y": 0.8759283,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.566040754,
+            "y": 0.569161654,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.01911647,
+            "w": 0.999817252
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5457065,
+            "y": 0.3243761,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0600531921,
+            "w": 0.998195231
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5025339,
+            "y": 0.0519114733,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.09584446,
+            "w": 0.9953963
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.539091349,
+            "y": -0.324746847,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.1383847,
+            "w": 0.990378559
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.709938765,
+            "y": -0.7302046,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.2663252,
+            "w": 0.9638832
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.762028,
+            "y": -0.957425356,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.03656139,
+            "w": 0.9993314
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3524418,
+            "y": -0.300599456,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.264310151,
+            "w": 0.9644377
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.2094754,
+            "y": -0.709946632,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.05253257,
+            "w": 0.998619258
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.1277107,
+            "y": -0.961393237,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.504620552,
+            "y": 0.467481852,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.242243573,
+            "w": 0.9702155
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.219754934,
+            "y": 0.204190612,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.5335393,
+            "w": 0.845775247
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.605803251,
+            "y": 0.459515333,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.165342912,
+            "w": 0.986236155
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.6774206,
+            "y": 0.06192839,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.348532915,
+            "y": 0.924044967,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0939544141,
+            "w": 0.99557656
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4057417,
+            "y": 0.6199709,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0890218839,
+            "w": 0.9960297
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4383843,
+            "y": 0.3765241,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0478324,
+            "w": 0.9988554
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.438123226,
+            "y": 0.10169661,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.04599352,
+            "w": 0.9989418
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4379089,
+            "y": -0.285819173,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0285929833,
+            "w": 0.9995912
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5138385,
+            "y": -0.719509959,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.153332621,
+            "w": 0.9881747
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.5184846,
+            "y": -0.9627532,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.00263132737,
+            "w": 0.999996543
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.344561338,
+            "y": -0.272459626,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.169919565,
+            "w": 0.985457957
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.243245,
+            "y": -0.701325059,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.05253257,
+            "w": 0.998619258
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.161480308,
+            "y": -0.9527718,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.379985332,
+            "y": 0.5046636,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.08632377,
+            "w": 0.99626714
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.232885,
+            "y": 0.1318376,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.275521934,
+            "w": 0.96129483
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.443290472,
+            "y": 0.50971806,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.165342912,
+            "w": 0.986236155
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.514907837,
+            "y": 0.112131119,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.344673872,
+            "y": 0.9469768,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.06632261,
+            "w": 0.997798264
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.371258974,
+            "y": 0.6388439,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.00499662571,
+            "w": 0.999987543
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3615241,
+            "y": 0.3934567,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.04055174,
+            "w": 0.999177456
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.34563446,
+            "y": 0.117944956,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0177233461,
+            "w": 0.999842942
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3539126,
+            "y": -0.270112872,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0285929833,
+            "w": 0.9995912
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4011109,
+            "y": -0.7107122,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.08193806,
+            "w": 0.9966374
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.376239777,
+            "y": -0.96097827,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.00263132737,
+            "w": 0.999996543
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.31147325,
+            "y": -0.2687503,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0606527738,
+            "w": 0.998158932
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.261066675,
+            "y": -0.7096131,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.05253257,
+            "w": 0.998619258
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.179301858,
+            "y": -0.9610598,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.34721303,
+            "y": 0.524049759,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.08632377,
+            "w": 0.99626714
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.2539475,
+            "y": 0.127143621,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.14100036,
+            "w": 0.990009546
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.37710166,
+            "y": 0.5224097,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.031609226,
+            "w": 0.999500334
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.397851467,
+            "y": 0.11463201,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.338257551,
+            "y": 0.9467163,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.06632261,
+            "w": 0.997798264
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.368186235,
+            "y": 0.638771057,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0187283661,
+            "w": 0.999824643
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3615241,
+            "y": 0.3934567,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.04055174,
+            "w": 0.999177456
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.34563446,
+            "y": 0.117944956,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0177233461,
+            "w": 0.999842942
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3539126,
+            "y": -0.270112872,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0285929833,
+            "w": 0.9995912
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4011109,
+            "y": -0.7107122,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.08193806,
+            "w": 0.9966374
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.376239777,
+            "y": -0.96097827,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.00263132737,
+            "w": 0.999996543
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.31147325,
+            "y": -0.2687503,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0606527738,
+            "w": 0.998158932
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.261066675,
+            "y": -0.7096131,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.05253257,
+            "w": 0.998619258
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.179301858,
+            "y": -0.9610598,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.413863182,
+            "y": 0.5314933,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.193070769,
+            "w": 0.98118484
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.450830221,
+            "y": 0.140675187,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0848347545,
+            "w": 0.996395051
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.373744249,
+            "y": 0.5222728,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.031609226,
+            "w": 0.999500334
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.394493818,
+            "y": 0.1144954,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.338257551,
+            "y": 0.9467163,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.06632261,
+            "w": 0.997798264
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.368186235,
+            "y": 0.638771057,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0187283661,
+            "w": 0.999824643
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3615241,
+            "y": 0.3934567,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.04055174,
+            "w": 0.999177456
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.34563446,
+            "y": 0.117944956,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0177233461,
+            "w": 0.999842942
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3539126,
+            "y": -0.270112872,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0285929833,
+            "w": 0.9995912
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4011109,
+            "y": -0.7107122,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.08193806,
+            "w": 0.9966374
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.376239777,
+            "y": -0.96097827,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.00263132737,
+            "w": 0.999996543
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.31147325,
+            "y": -0.2687503,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0606527738,
+            "w": 0.998158932
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.261066675,
+            "y": -0.7096131,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.05253257,
+            "w": 0.998619258
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.179301858,
+            "y": -0.9610598,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.413863182,
+            "y": 0.5314933,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.193070769,
+            "w": 0.98118484
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.450830221,
+            "y": 0.140675187,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0848347545,
+            "w": 0.996395051
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.373744249,
+            "y": 0.5222728,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.031609226,
+            "w": 0.999500334
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.394493818,
+            "y": 0.1144954,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    },
+    {
+      "Limbs": [
+        {
+          "WorldOffset": {
+            "x": -0.338257551,
+            "y": 0.9467163,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.06632261,
+            "w": 0.997798264
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.368186235,
+            "y": 0.638771057,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0187283661,
+            "w": 0.999824643
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3615241,
+            "y": 0.3934567,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.04055174,
+            "w": 0.999177456
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.34563446,
+            "y": 0.117944956,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0177233461,
+            "w": 0.999842942
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Default",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.3539126,
+            "y": -0.270112872,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0285929833,
+            "w": 0.9995912
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.4011109,
+            "y": -0.7107122,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.08193806,
+            "w": 0.9966374
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.376239777,
+            "y": -0.96097827,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.00263132737,
+            "w": 0.999996543
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.31147325,
+            "y": -0.2687503,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0606527738,
+            "w": 0.998158932
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.261066675,
+            "y": -0.7096131,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.05253257,
+            "w": 0.998619258
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.179301858,
+            "y": -0.9610598,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.000366515829,
+            "w": 0.99999994
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.413863182,
+            "y": 0.5314933,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.193070769,
+            "w": 0.98118484
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.450830221,
+            "y": 0.140675187,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0848347545,
+            "w": 0.996395051
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Foreground",
+          "LayerOrder": 1
+        },
+        {
+          "WorldOffset": {
+            "x": -0.373744249,
+            "y": 0.5222728,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.031609226,
+            "w": 0.999500334
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        },
+        {
+          "WorldOffset": {
+            "x": -0.394493818,
+            "y": 0.1144954,
+            "z": 0.0
+          },
+          "Rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.0198427662,
+            "w": 0.9998032
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          },
+          "LayerID": "Background",
+          "LayerOrder": 0
+        }
+      ],
+      "FrameTime": 0.1,
+      "SavedCentroid": {
+        "x": -1.679887,
+        "y": 1.00309241,
+        "z": 0.0
+      },
+      "RootScale": {
+        "x": 1.04166675,
+        "y": 1.04166675,
+        "z": 0.0
+      },
+      "IsFlipped": false
+    }
+  ],
+  "SmoothInterpolation": true
+}

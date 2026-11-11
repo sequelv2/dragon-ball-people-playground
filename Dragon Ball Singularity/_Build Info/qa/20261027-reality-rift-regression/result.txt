@@ -1,0 +1,80 @@
+DBPU native ki combat QA started
+SCENE  -> Main
+QA ONLY: resumed native catalogue application after third-party startup exception; no mod settings changed
+QA ONLY: fixed damage/cost multipliers in this disposable process; no settings are saved
+PASS explicit foot-only ki kick/infusion, same-side leg aliases, default empty feet, real charge/hit/refund and native hand/share/sphere isolation
+PASS stock abilities, hand-only target validation, independent custom hands, shared native selection, repeated native selection, unknown ID rejection and empty hand suppression
+PASS unified wheel, divine form/character whitelist, passive stock strike, real ki cost and single discharge
+PASS real 15-unit/s native hand contact, one passive charge and no resting-contact repeats
+SCREENSHOT 30-fist-white-overcharge.png 1920x1080
+PASS own-ki overcharge, continuous limb VFX and paused prepared energy
+PASS ordinary/God damage is finite and God mode strengthens the same strike
+SCREENSHOT 31-fist-god-impact-rings.png 1920x1080
+PASS actual Ki Fist damage scales with Output once
+PASS legacy migration, one-time infusion reservation, cancel refund, actual hit consumption and internal damage
+PASS explicitly selected foot shares the new architecture; losing divine form cancels God mode/preparation
+SCREENSHOT 32-fist-god-overcharge.png 1920x1080
+SCREENSHOT 33-fist-full-god-impact.png 1920x1080
+ALL KI FIST MODE CHECKS PASSED
+PASS native mobile 3D shield, torso follow, no added FreezeBehaviour, sustained upkeep and pause
+PASS real 1400-unit/s native blast intercepted without health leakage
+SCREENSHOT 20-shield-sphere-contact.png 1920x1080
+PASS native sphere sustained clash, outside pin, moving shell, no damage leakage and energy absorption
+SCREENSHOT 21-shield-native-beam.png 1920x1080
+PASS native Energy Wave clipping and protected body health
+PASS real Ki Share ray passes through active shield, restores receiver ki and pays donor once
+PASS charged Ki Fist hits the barrier and consumes its strike once
+PASS shield strength tracks Output and exact Kaioken multiplier
+SCREENSHOT 22-shield-overload.png 1920x1080
+PASS stronger attack breaks through, keeps residual damage and recovery lockout
+PASS Ki exhaustion collapses shield without freezing or leaving a collider
+PASS five output levels, reverse cycle, one-fold damage, preserved wounds and 400-cycle stability
+PASS actual native BlastBehaviour damage at all five output values
+SCREENSHOT 09-reference-ssj-hud.png 1600x900
+PASS previous SSJ1/2/3 CanonKi auras restored and HUD viewport/text bounds
+KAIOKEN x2 power ratio=2 health ratio=2 native blast ratio=2
+SCREENSHOT 11-kaioken-x2-hud.png 1600x900
+KAIOKEN x3 power ratio=2.9999999906175 health ratio=3 native blast ratio=3
+KAIOKEN x5 power ratio=4.9999999343225 health ratio=5 native blast ratio=5
+KAIOKEN x10 power ratio=9.99999986864501 health ratio=10 native blast ratio=10
+KAIOKEN x20 power ratio=19.99999973729 health ratio=20 native blast ratio=20
+PASS exact Kaioken x2/x3/x5/x10/x20 HUD, real health, native blast and Spirit Bomb ratios; inactive configuration, same-frame exit, preserved wounds and 20 enter/change/exit cycles
+PASS native circle raycast, transparent bars/corners, left/reverse click, one-step real health changes, duplicate-event guard and UI-blocker release/cancel
+SCREENSHOT 12-hud-inertia.png 1600x900
+PASS bounded HUD inertia (peak 19.10816 pixels, 1.787938 degrees), native pause, stop/settle and teleport reset
+SCREENSHOT 13-interactive-softened-hud.png 1600x900
+PASS HUD hides and fades back with the native Detail view
+SCREENSHOT 10-sparking-output-strain.png 1600x900
+PASS per-frame aura time, pause, charge power, real Sparking attack multiplier and native strain gauge
+VISUAL PIPELINE built-in / graphics=Direct3D11 / device=NVIDIA GeForce RTX 3060
+VISUAL MSAA camera.allowMSAA=False / QualitySettings.antiAliasing=0
+SCREENSHOT 40-fist-ready-native-volume.png 1600x900
+SCREENSHOT 41-fist-charge-volume.png 1600x900
+SCREENSHOT 42-fist-full-charge-volume.png 1600x900
+QA ONLY: deterministic 1/60-second Unity capture delta for trail coordinate invariants; original=0
+SCREENSHOT 42a-fist-diagonal-trail.png 1600x900
+PASS native diagonal swept-path world coordinates facing=1 minimumWidth=0.3510286 maximumTangentDot=4.816145E-06
+SCREENSHOT 42b-fist-mirrored-diagonal-trail.png 1600x900
+PASS native diagonal swept-path world coordinates facing=-1 minimumWidth=0.3510274 maximumTangentDot=9.9823E-06
+SCREENSHOT 43-fist-actual-hit-flash.png 1600x900
+SCREENSHOT 44-fist-actual-hit-pressure.png 1600x900
+SCREENSHOT 45-god-fist-native-volume.png 1600x900
+SCREENSHOT 46-infusion-fist-native-volume.png 1600x900
+PASS native ready/charging/full-charge/God/Infusion volume materials and actual overcharged hit captures
+SCREENSHOT 47-tier-0-impact-flash.png 1600x900
+SCREENSHOT 48-tier-0-impact-pressure.png 1600x900
+SCREENSHOT 49-tier-0-impact-aftershock.png 1600x900
+SCREENSHOT 47-tier-1-impact-flash.png 1600x900
+SCREENSHOT 48-tier-1-impact-pressure.png 1600x900
+SCREENSHOT 49-tier-1-impact-aftershock.png 1600x900
+SCREENSHOT 47-tier-2-impact-flash.png 1600x900
+SCREENSHOT 48-tier-2-impact-pressure.png 1600x900
+SCREENSHOT 49-tier-2-impact-aftershock.png 1600x900
+SCREENSHOT 49-tier-2-late-pressure-1_3s.png 1600x900
+REFRACTION CAPTURE MSAA requested=1 supportedTarget=1 / camera.allowMSAA=False
+REFRACTION PIXELS changed=48292 baselineNoise=0 mean=13.8692672133907 baselineMean=0.772978577288238
+REFRACTION POSITION expected=(0.6, 0.7) centroid=(0.6, 0.7) error=0.001543687 mirroredError=0.3323711
+PASS real camera background refraction: emission absent, paired same-frame bypass comparison, paused wave age retained
+PASS wave expiry and bounded simultaneous refraction capacity: 12
+ALL KI FIST NATIVE VISUAL AND REFRACTION CHECKS PASSED
+ALL KI FIST, SHIELD AND HUD CHECKS PASSED

@@ -1,0 +1,110 @@
+{
+  "FeatureId": "20261027-reality-rift",
+  "CurrentUpdate": "20261027-reality-rift-reference",
+  "Updates": [
+    "20261027-reality-rift",
+    "20261027-reality-rift-loader",
+    "20261027-reality-rift-cinematic",
+    "20261027-reality-rift-power",
+    "20261027-reality-rift-reference"
+  ],
+  "InstalledMod": "C:\\Program Files (x86)\\People Playground\\Mods\\$RW9JQP2",
+  "RollbackSnapshot": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\backups\\full\\20261027-reality-rift\\DBPU",
+  "RollbackManifest": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\backups\\full\\20261027-reality-rift\\DBPU\\PACKAGE-MANIFEST.json",
+  "PreviousDLLSHA256": "7B89B4307B78244F766126BCEB7F5EB6DB78AE9CD487E5ADA2CB5F5D50E8618A",
+  "IntroducedFiles": [
+    "Assets/scripts/RealityRiftRuntime.cs",
+    "Assets/scripts/RealityRiftVisual.cs",
+    "Assets/scripts/RealityRiftQa.cs",
+    "Assets/VFX/RealityRift/reality-rift"
+  ],
+  "AllChangedFiles": [
+    "Assets/VFX/RealityRift/reality-rift",
+    "Assets/scripts/KiCombatQa.cs",
+    "Assets/scripts/KiFistRuntime.cs",
+    "Assets/scripts/RealityRiftQa.cs",
+    "Assets/scripts/RealityRiftRuntime.cs",
+    "Assets/scripts/RealityRiftVisual.cs",
+    "Assets/scripts/script.cs",
+    "DBPU.csproj",
+    "dragon ball.dll"
+  ],
+  "SettingsBaseline": [
+    {
+      "Name": "DBPU_Configs.json",
+      "Present": true,
+      "SHA256": "1421C0F302606DEDD21254B01BAE32B7FB17C4A6EF34CB4D6F12ED3345E08ECD"
+    },
+    {
+      "Name": "DBPU_CharacterPowers.json",
+      "Present": true,
+      "SHA256": "7405A50D1490E1842AB96BFD88368F69EA5CADCBC584535174DF63A9050616B6"
+    },
+    {
+      "Name": "DBPU_CustomTransformations.json",
+      "Present": true,
+      "SHA256": "A0C5F0847B3399C89FBE905080BEA8E9EE0E2659C0F27383F671EFDF346D1140"
+    },
+    {
+      "Name": "DBPU_WorkshopLocal.json",
+      "Present": false,
+      "SHA256": null
+    }
+  ],
+  "Verification": {
+    "verifiedAt": "2026-10-27T15:03:43.068331+02:00",
+    "runtimeFiles": 4018,
+    "allExpectedHashesMatch": true,
+    "settings": [
+      {
+        "name": "DBPU_Configs.json",
+        "originalPresent": true,
+        "currentPresent": true,
+        "originalSHA256": "1421C0F302606DEDD21254B01BAE32B7FB17C4A6EF34CB4D6F12ED3345E08ECD",
+        "currentSHA256": "1421C0F302606DEDD21254B01BAE32B7FB17C4A6EF34CB4D6F12ED3345E08ECD",
+        "unchanged": true
+      },
+      {
+        "name": "DBPU_CharacterPowers.json",
+        "originalPresent": true,
+        "currentPresent": true,
+        "originalSHA256": "7405A50D1490E1842AB96BFD88368F69EA5CADCBC584535174DF63A9050616B6",
+        "currentSHA256": "7405A50D1490E1842AB96BFD88368F69EA5CADCBC584535174DF63A9050616B6",
+        "unchanged": true
+      },
+      {
+        "name": "DBPU_CustomTransformations.json",
+        "originalPresent": true,
+        "currentPresent": true,
+        "originalSHA256": "A0C5F0847B3399C89FBE905080BEA8E9EE0E2659C0F27383F671EFDF346D1140",
+        "currentSHA256": "A0C5F0847B3399C89FBE905080BEA8E9EE0E2659C0F27383F671EFDF346D1140",
+        "unchanged": true
+      },
+      {
+        "name": "DBPU_WorkshopLocal.json",
+        "originalPresent": false,
+        "currentPresent": false,
+        "originalSHA256": null,
+        "currentSHA256": null,
+        "unchanged": true
+      }
+    ],
+    "nativeRealityQa": "PASS",
+    "nativeKiFistShieldHudRegression": "PASS",
+    "DLLSHA256": "B8F488A4A5C5BF60FF0A63D60C2AF6773FAE69541D7A52379BB2C514B9B72FA6",
+    "RealityBundleSHA256": "1F0FCA90F37376BA9BC6FC3613BC99AC626D36B9214B7FF6A354264B1534322C"
+  },
+  "RuntimeHashes": {
+    "dragon ball.dll": "B8F488A4A5C5BF60FF0A63D60C2AF6773FAE69541D7A52379BB2C514B9B72FA6",
+    "DBPU.csproj": "88529FB4748A02207F1C4AE71562359C38414F84CB48C585D37DE1B032367002",
+    "Assets/scripts/KiFistRuntime.cs": "8B1866B938BC56A4275FEB123910B191762709357D5091A8A8A5D623F27B2604",
+    "Assets/scripts/script.cs": "5ED08302BB4DB3B552A828644DB9A330A09B11A36B2842862F2D27638DFF4AAF",
+    "Assets/scripts/KiCombatQa.cs": "733590DD747DE7127B32E8058443C18AE57B7C4072CE2B1EDCB92B8A5C37CD59",
+    "Assets/scripts/RealityRiftRuntime.cs": "D283E79D42A0FCB3D9C13F31A23179F258CBFC2ED9E428E4FEA57C4B9970A111",
+    "Assets/scripts/RealityRiftVisual.cs": "0A4C57444B42BF34F6B5FD0C5BFC00211E86CC4DF34F7A9344A3A12F2D490333",
+    "Assets/scripts/RealityRiftQa.cs": "65FDC0CA2C180321177C7C22A550F6F83739FED865A8F174BCACF640EB14D205",
+    "Assets/VFX/RealityRift/reality-rift": "1F0FCA90F37376BA9BC6FC3613BC99AC626D36B9214B7FF6A354264B1534322C"
+  },
+  "BlenderSource": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\vfx\\RealityRift\\Blender\\RealityRift-CellFracture.blend",
+  "BlenderSourceSHA256": "A351C0475B3028D3A4F7E0650091480564F4B10A7A1A7C256DB9CF263F513090"
+}

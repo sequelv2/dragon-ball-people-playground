@@ -1,0 +1,2 @@
+Blender 5.2.3 LTS node material, pressure shapes and 217 animation samples
+Unity 2020.3.1f1 / StandaloneWindows64 / wet contractile tissue shader

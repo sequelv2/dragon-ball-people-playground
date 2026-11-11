@@ -1,0 +1,3 @@
+Unity 2020.3.1f1 / StandaloneWindows64 / D3D11
+Blender authored 24 frames x 8 pieces / 128 pixel tiles
+Linear raw RGBA albedo + camera normals / frame interpolation

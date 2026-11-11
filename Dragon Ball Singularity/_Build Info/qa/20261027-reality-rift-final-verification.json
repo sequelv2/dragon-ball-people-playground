@@ -1,0 +1,43 @@
+{
+  "verifiedAt": "2026-10-27T15:03:43.068331+02:00",
+  "runtimeFiles": 4018,
+  "allExpectedHashesMatch": true,
+  "settings": [
+    {
+      "name": "DBPU_Configs.json",
+      "originalPresent": true,
+      "currentPresent": true,
+      "originalSHA256": "1421C0F302606DEDD21254B01BAE32B7FB17C4A6EF34CB4D6F12ED3345E08ECD",
+      "currentSHA256": "1421C0F302606DEDD21254B01BAE32B7FB17C4A6EF34CB4D6F12ED3345E08ECD",
+      "unchanged": true
+    },
+    {
+      "name": "DBPU_CharacterPowers.json",
+      "originalPresent": true,
+      "currentPresent": true,
+      "originalSHA256": "7405A50D1490E1842AB96BFD88368F69EA5CADCBC584535174DF63A9050616B6",
+      "currentSHA256": "7405A50D1490E1842AB96BFD88368F69EA5CADCBC584535174DF63A9050616B6",
+      "unchanged": true
+    },
+    {
+      "name": "DBPU_CustomTransformations.json",
+      "originalPresent": true,
+      "currentPresent": true,
+      "originalSHA256": "A0C5F0847B3399C89FBE905080BEA8E9EE0E2659C0F27383F671EFDF346D1140",
+      "currentSHA256": "A0C5F0847B3399C89FBE905080BEA8E9EE0E2659C0F27383F671EFDF346D1140",
+      "unchanged": true
+    },
+    {
+      "name": "DBPU_WorkshopLocal.json",
+      "originalPresent": false,
+      "currentPresent": false,
+      "originalSHA256": null,
+      "currentSHA256": null,
+      "unchanged": true
+    }
+  ],
+  "nativeRealityQa": "PASS",
+  "nativeKiFistShieldHudRegression": "PASS",
+  "DLLSHA256": "B8F488A4A5C5BF60FF0A63D60C2AF6773FAE69541D7A52379BB2C514B9B72FA6",
+  "RealityBundleSHA256": "1F0FCA90F37376BA9BC6FC3613BC99AC626D36B9214B7FF6A354264B1534322C"
+}

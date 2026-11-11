@@ -1,0 +1,528 @@
+{
+  "DisplayNames": {
+    "BM/Goku": "(BM) Goku",
+    "DBZ/Vegito": "Vegito",
+    "BM/Broly": "(BM) Broly",
+    "BM/Gogeta": "(BM) Gogeta",
+    "BM/Vegeta": "(BM) Vegeta",
+    "BM/Gohan": "(BM) Gohan",
+    "DBSSH/Gohan": "(DBSSH) Gohan",
+    "DBSSH/Teen Goten": "(DBSSH) Teen Goten",
+    "DBSSH/Goku": "(DBSSH) Goku",
+    "BM/Beerus": "(BM) Beerus",
+    "BM/Freeza": "Frieza",
+    "Assets/Sprites/Characters/Goku/Icons/Rose": "Goku Black",
+    "BM/Kid Goten": "(BM) Kid Goten",
+    "SaiyanSaga/Vegeta": "Vegeta",
+    "DBSSH/Vegeta": "(DBSSH) Vegeta",
+    "BM/Yamcha": "(BM) Yamcha",
+    "BM/Bardock": "(BM) Bardock",
+    "SaiyanSaga/Kid Gohan": "Kid Gohan",
+    "BM/Teen Gohan": "Teen Gohan",
+    "DBSSH/Piccolo": "(DBSSH) Piccolo",
+    "DBSSH/Broly": "(DBSSH) Broly",
+    "BM/Krillin": "(BM) Krillin",
+    "BM/Kid Trunks": "(BM) Kid Trunks",
+    "DBSSH/Pan": "(DBSSH) Pan",
+    "DBSSH/Teen Trunks": "(DBSSH) Teen Trunks",
+    "FriezaSaga/Goku": "Goku (Namek)",
+    "FriezaSaga/Frieza": "Frieza (Namek)",
+    "Secrets/Drip Goku": "<color=yellow>[Secret] <color=white>Drip Goku",
+    "DBSSH/Whis": "(DBSSH) Whis",
+    "CellGames/18": "Android 18",
+    "BM/Whis": "(BM) Whis",
+    "StoryOfBardock/Bardock": "Bardock",
+    "Naruto": "Naruto Uzumaki",
+    "Gogito": "Gogito"
+  },
+  "Defaults": {
+    "BM/Goku": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJGrade2": 70.0,
+      "PSSJ": 80.0,
+      "SSJ2": 100.0,
+      "SSJ3": 400.0,
+      "SSJGod": 10000.0,
+      "SSJBlue": 500000.0,
+      "PSSJBlue": 600000.0,
+      "UI": 1E+09,
+      "MUI": 1.5E+09,
+      "Custom_8deecc9c0f9f637": 10.0,
+      "Custom_8df26db55a2be95": 10.0
+    },
+    "DBZ/Vegito": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJBlue": 500000.0,
+      "Custom_8deecc0ba516665": 10.0,
+      "Custom_8deecc22f6dd37a": 5.4E+09,
+      "Custom_8deee6590741ea3": 10.0,
+      "Custom_8deee65d079ea47": 5600.0,
+      "Custom_8deeef75df6029e": 10.0,
+      "Custom_8defa2aca4df48a": 5E+09,
+      "Custom_8defa3e9fb216e9": 400.0,
+      "Custom_8defa40adb6ac2e": 10.0
+    },
+    "BM/Broly": {
+      "Base": 1.0,
+      "Ikari": 10.0,
+      "SSJ1": 50.0,
+      "FPSSJ": 500.0,
+      "Custom_8deeccccffcd597": 111111.0
+    },
+    "BM/Gogeta": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJGod": 10000.0,
+      "SSJBlue": 500000.0,
+      "Custom_8deecc375638bf0": 10.0,
+      "Custom_8deecc40b343bcc": 100.0,
+      "Custom_8deecc48ed4af0a": 1.2E+09,
+      "Custom_8deeccca8e981e5": 10.0,
+      "Custom_8deeeff2c5e10a4": 1.2E+09,
+      "Custom_8defa29120bb443": 10.0,
+      "Custom_8defa3f1437d47d": 5.5E+09,
+      "Custom_8defb9e49decfc0": 400.0
+    },
+    "BM/Vegeta": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJGrade2": 70.0,
+      "SSJ2": 100.0,
+      "SSJGod": 10000.0,
+      "SSJBlue": 500000.0,
+      "PSSJBlue": 600000.0,
+      "SSJBlueEvolution": 1E+07,
+      "UE": 1.2E+09,
+      "Custom_8deecc9f709f20f": 1.2E+09,
+      "Custom_8df0a64e1fa0010": 7.5E+09,
+      "Custom_8df0a6507fa51d3": 1E+10
+    },
+    "BM/Gohan": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "PSSJ": 80.0,
+      "SSJ2": 100.0,
+      "Ultimate": 100000.0,
+      "Custom_8deecc9d7b373d6": 10.0,
+      "Custom_8deee2837a128d2": 10.0
+    },
+    "DBSSH/Gohan": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "PSSJ": 80.0,
+      "SSJ2": 100.0,
+      "Ultimate": 100000.0,
+      "BeastGohan": 1E+09,
+      "Custom_8deeeeec1eb4a33": 5000000.0,
+      "Custom_8deeeef27b7507f": 1E+07
+    },
+    "DBSSH/Teen Goten": {
+      "Base": 1.0,
+      "SSJ1": 50.0
+    },
+    "DBSSH/Goku": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJGrade2": 70.0,
+      "PSSJ": 80.0,
+      "SSJ2": 100.0,
+      "SSJ3": 400.0,
+      "SSJGod": 10000.0,
+      "SSJBlue": 500000.0,
+      "PSSJBlue": 600000.0,
+      "UI": 1E+09,
+      "MUI": 1.5E+09
+    },
+    "BM/Beerus": {
+      "Base": 1.0,
+      "Custom_8deecca8dc14e61": 0.01,
+      "Custom_8deeccaf88a9ebf": 0.1,
+      "Custom_8deeccb0f285ed7": 1.0,
+      "Custom_8def2e98b6001ae": 10.0,
+      "Custom_8df029b91c08be7": 100000.0
+    },
+    "BM/Freeza": {
+      "FirstForm": 0.125,
+      "SecondForm": 0.25,
+      "ThirdForm": 0.5,
+      "FinalForm": 1.0,
+      "FullPower": 2.0,
+      "GoldenForm": 250000.0,
+      "BlackForm": 2.5E+09
+    },
+    "Assets/Sprites/Characters/Goku/Icons/Rose": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJRose": 10000.0
+    },
+    "BM/Kid Goten": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "Custom_8deecc680ed480e": 100.0,
+      "Custom_8deecc6dc49fd56": 1200.0
+    },
+    "SaiyanSaga/Vegeta": {
+      "Base": 1.0,
+      "Oozaru": 10.0,
+      "Custom_8df1667e2d7429e": 10.0
+    },
+    "DBSSH/Vegeta": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJGrade2": 70.0,
+      "SSJ2": 100.0,
+      "SSJGod": 10000.0,
+      "SSJBlue": 500000.0,
+      "PSSJBlue": 600000.0,
+      "SSJBlueEvolution": 1E+07
+    },
+    "BM/Yamcha": {
+      "Base": 1.0
+    },
+    "BM/Bardock": {
+      "Base": 1.0,
+      "SSJ1": 50.0
+    },
+    "SaiyanSaga/Kid Gohan": {
+      "Base": 1.0
+    },
+    "BM/Teen Gohan": {
+      "Base": 1.0,
+      "SSJ1": 50.0,
+      "SSJ2": 100.0
+    },
+    "DBSSH/Piccolo": {
+      "Base": 1.0,
+      "PowerAwakened": 100000.0,
+      "OrangePiccolo": 5E+07
+    },
+    "DBSSH/Broly": {
+      "Base": 1.0,
+      "Ikari": 10.0,
+      "SSJ1": 50.0,
+      "FPSSJ": 500.0
+    },
+    "BM/Krillin": {
+      "Base": 1.0,
+      "Custom_8deecdd9e29b665": 100000.0
+    },
+    "BM/Kid Trunks": {
+      "Base": 1.0,
+      "SSJ1": 50.0
+    },
+    "DBSSH/Pan": {
+      "Base": 1.0
+    },
+    "DBSSH/Teen Trunks": {
+      "Base": 1.0,
+      "SSJ1": 50.0
+    },
+    "FriezaSaga/Goku": {
+      "Base": 1.0,
+      "SSJ1": 50.0
+    },
+    "FriezaSaga/Frieza": {
+      "FirstForm": 0.004417,
+      "SecondForm": 0.008333,
+      "ThirdForm": 0.019167,
+      "FinalForm": 0.5,
+      "FullPower": 1.0
+    },
+    "Secrets/Drip Goku": {
+      "Base": 1.0,
+      "Dripstinct": 1000000.0,
+      "MasteredDripstinct": 1E+08
+    },
+    "DBSSH/Whis": {
+      "Base": 1.0,
+      "Custom_8defa060ea79c9b": 10.0,
+      "Custom_8defa0614e9aa00": 0.01
+    },
+    "CellGames/18": {
+      "Base": 1.0
+    },
+    "BM/Whis": {
+      "Base": 1.0,
+      "Custom_8df1174a4060bdc": 10000.0
+    },
+    "StoryOfBardock/Bardock": {
+      "Base": 1.0,
+      "SSJ1": 50.0
+    },
+    "Naruto": {
+      "Base": 0.25,
+      "FoxLeak": 0.5,
+      "Fox1": 0.75,
+      "Fox2": 1.25,
+      "Fox3": 2.0,
+      "Sage": 2.5,
+      "SageRobe": 2.5,
+      "KCM1": 6.25,
+      "KCM2": 31.25,
+      "KuramaSage": 78.125,
+      "SixPaths": 781.25,
+      "SixPathsCloak": 3906.25
+    },
+    "Gogito": {
+      "Base": 1E+08,
+      "SSJ1": 5E+09,
+      "SSJ2": 1E+10,
+      "SSJ3": 4E+10,
+      "SSJGod": 1E+12,
+      "SSJBlue": 5E+13,
+      "Custom_8df29fe260ac448": 10.0
+    }
+  },
+  "FormNames": {
+    "BM/Goku": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "SSJGrade2": "Super Saiyan Grade 2",
+      "PSSJ": "Perfect Super Saiyan",
+      "SSJ2": "Super Saiyan 2",
+      "SSJ3": "Super Saiyan 3",
+      "SSJGod": "Super Saiyan God",
+      "SSJBlue": "Super Saiyan Blue",
+      "PSSJBlue": "Perfected Super Saiyan Blue",
+      "UI": "Ultra Instinct",
+      "MUI": "Mastered Ultra Instinct",
+      "Custom_8deecc9c0f9f637": "Custom Form",
+      "Custom_8df26db55a2be95": "Custom Form"
+    },
+    "DBZ/Vegito": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan",
+      "SSJBlue": "Super Saiyan Blue",
+      "Custom_8deecc0ba516665": "Custom Form",
+      "Custom_8deecc22f6dd37a": "Ultra EgStinct",
+      "Custom_8deee6590741ea3": "Custom Form",
+      "Custom_8deee65d079ea47": "Super Saiyan 2",
+      "Custom_8deeef75df6029e": "Custom Form",
+      "Custom_8defa2aca4df48a": "Ultra",
+      "Custom_8defa3e9fb216e9": "Super Saiyan 3",
+      "Custom_8defa40adb6ac2e": "Custom Form"
+    },
+    "BM/Broly": {
+      "Base": "Base",
+      "Ikari": "Ikari",
+      "SSJ1": "Super Saiyan 1",
+      "FPSSJ": "Full Power Super Saiyan",
+      "Custom_8deeccccffcd597": "DSS"
+    },
+    "BM/Gogeta": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "SSJGod": "Super Saiyan God",
+      "SSJBlue": "Super Saiyan Blue",
+      "Custom_8deecc375638bf0": "Custom Form",
+      "Custom_8deecc40b343bcc": "Super Saiyan 2",
+      "Custom_8deecc48ed4af0a": "Ultra",
+      "Custom_8deeccca8e981e5": "Custom Form",
+      "Custom_8deeeff2c5e10a4": "Ultra Instinct",
+      "Custom_8defa29120bb443": "Custom Form",
+      "Custom_8defa3f1437d47d": "Custom Form",
+      "Custom_8defb9e49decfc0": "Super Saiyan 3"
+    },
+    "BM/Vegeta": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "SSJGrade2": "Super Vegeta (SSJ Grade 2)",
+      "SSJ2": "Super Saiyan 2",
+      "SSJGod": "Super Saiyan God",
+      "SSJBlue": "Super Saiyan Blue",
+      "PSSJBlue": "Perfected Super Saiyan Blue",
+      "SSJBlueEvolution": "Super Saiyan Blue Evolution",
+      "UE": "Ultra Ego",
+      "Custom_8deecc9f709f20f": "Ultra Ego",
+      "Custom_8df0a64e1fa0010": "Ultra Ego 50%",
+      "Custom_8df0a6507fa51d3": "Ultra Ego 100%"
+    },
+    "BM/Gohan": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "PSSJ": "Perfect Super Saiyan",
+      "SSJ2": "Super Saiyan 2",
+      "Ultimate": "Mystic Gohan",
+      "Custom_8deecc9d7b373d6": "Custom Form",
+      "Custom_8deee2837a128d2": "Custom Form"
+    },
+    "DBSSH/Gohan": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "PSSJ": "Perfect Super Saiyan",
+      "SSJ2": "Super Saiyan 2",
+      "Ultimate": "Mystic Gohan",
+      "BeastGohan": "Beast Gohan",
+      "Custom_8deeeeec1eb4a33": "Mystic SSJ1",
+      "Custom_8deeeef27b7507f": "Mystic SSJ2"
+    },
+    "DBSSH/Teen Goten": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1"
+    },
+    "DBSSH/Goku": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "SSJGrade2": "Super Saiyan Grade 2",
+      "PSSJ": "Perfect Super Saiyan",
+      "SSJ2": "Super Saiyan 2",
+      "SSJ3": "Super Saiyan 3",
+      "SSJGod": "Super Saiyan God",
+      "SSJBlue": "Super Saiyan Blue",
+      "PSSJBlue": "Perfected Super Saiyan Blue",
+      "UI": "Ultra Instinct",
+      "MUI": "Mastered Ultra Instinct"
+    },
+    "BM/Beerus": {
+      "Base": "Base",
+      "Custom_8deecca8dc14e61": "1%",
+      "Custom_8deeccaf88a9ebf": "10%",
+      "Custom_8deeccb0f285ed7": "100%",
+      "Custom_8def2e98b6001ae": "Custom Form",
+      "Custom_8df029b91c08be7": "Absolute Hakaishin"
+    },
+    "BM/Freeza": {
+      "FirstForm": "1st Form",
+      "SecondForm": "2nd Form",
+      "ThirdForm": "3rd Form",
+      "FinalForm": "Final Form",
+      "FullPower": "Full Power",
+      "GoldenForm": "Golden Form",
+      "BlackForm": "Black Frieza"
+    },
+    "Assets/Sprites/Characters/Goku/Icons/Rose": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan",
+      "SSJRose": "Super Saiyan Rosé"
+    },
+    "BM/Kid Goten": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "Custom_8deecc680ed480e": "Super Saiyan 2",
+      "Custom_8deecc6dc49fd56": "Super Saiyan Rage"
+    },
+    "SaiyanSaga/Vegeta": {
+      "Base": "Base",
+      "Oozaru": "Oozaru",
+      "Custom_8df1667e2d7429e": "Custom Form"
+    },
+    "DBSSH/Vegeta": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "SSJGrade2": "Super Vegeta (SSJ Grade 2)",
+      "SSJ2": "Super Saiyan 2",
+      "SSJGod": "Super Saiyan God",
+      "SSJBlue": "Super Saiyan Blue",
+      "PSSJBlue": "Perfected Super Saiyan Blue",
+      "SSJBlueEvolution": "Super Saiyan Blue Evolution"
+    },
+    "BM/Yamcha": {
+      "Base": "Base"
+    },
+    "BM/Bardock": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan"
+    },
+    "SaiyanSaga/Kid Gohan": {
+      "Base": "Base"
+    },
+    "BM/Teen Gohan": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan",
+      "SSJ2": "Super Saiyan 2"
+    },
+    "DBSSH/Piccolo": {
+      "Base": "Base",
+      "PowerAwakened": "Power Awakened",
+      "OrangePiccolo": "Orange Piccolo"
+    },
+    "DBSSH/Broly": {
+      "Base": "Base",
+      "Ikari": "Ikari",
+      "SSJ1": "Super Saiyan 1",
+      "FPSSJ": "Full Power Super Saiyan"
+    },
+    "BM/Krillin": {
+      "Base": "Base",
+      "Custom_8deecdd9e29b665": "Mystic"
+    },
+    "BM/Kid Trunks": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1"
+    },
+    "DBSSH/Pan": {
+      "Base": "Casual"
+    },
+    "DBSSH/Teen Trunks": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1"
+    },
+    "FriezaSaga/Goku": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1"
+    },
+    "FriezaSaga/Frieza": {
+      "FirstForm": "1st Form",
+      "SecondForm": "2nd Form",
+      "ThirdForm": "3rd Form",
+      "FinalForm": "Final Form",
+      "FullPower": "Full Power"
+    },
+    "Secrets/Drip Goku": {
+      "Base": "Base",
+      "Dripstinct": "Ultra Dripstinct",
+      "MasteredDripstinct": "Mastered Ultra Dripstinct"
+    },
+    "DBSSH/Whis": {
+      "Base": "Base",
+      "Custom_8defa060ea79c9b": "Custom Form",
+      "Custom_8defa0614e9aa00": "Custom Form"
+    },
+    "CellGames/18": {
+      "Base": "Base"
+    },
+    "BM/Whis": {
+      "Base": "Base",
+      "Custom_8df1174a4060bdc": "Full Power"
+    },
+    "StoryOfBardock/Bardock": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan"
+    },
+    "Naruto": {
+      "Base": "Base",
+      "FoxLeak": "Fox Chakra Leakage",
+      "Fox1": "One-Tail Cloak",
+      "Fox2": "Two-Tail Cloak",
+      "Fox3": "Three-Tail Cloak",
+      "Sage": "Sage Mode",
+      "SageRobe": "Sage Mode — Red Robe",
+      "KCM1": "Kurama Chakra Mode I",
+      "KCM2": "Kurama Mode II",
+      "KuramaSage": "Kurama II + Sage Mode",
+      "SixPaths": "Six Paths Sage Mode",
+      "SixPathsCloak": "Six Paths Sage + Kurama"
+    },
+    "Gogito": {
+      "Base": "Base",
+      "SSJ1": "Super Saiyan 1",
+      "SSJ2": "Super Saiyan 2",
+      "SSJ3": "Super Saiyan 3",
+      "SSJGod": "Super Saiyan God",
+      "SSJBlue": "Super Saiyan Blue",
+      "Custom_8df29fe260ac448": "Custom Form"
+    }
+  },
+  "BasePowerOverrides": {
+    "BM/Goku": 30.0,
+    "BM/Vegeta": 55.0,
+    "DBSSH/Goku": 30.0,
+    "DBSSH/Vegeta": 55.0,
+    "BM/Gohan": 11.0,
+    "DBSSH/Gohan": 11.0,
+    "BM/Gogeta": 100.0
+  },
+  "Overrides": {}
+}

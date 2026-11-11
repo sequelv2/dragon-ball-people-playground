@@ -1,0 +1,18 @@
+{
+  "Name": "Dragon Ball: Singularity",
+  "Author": "Sequel",
+  "Description": "Dragon Ball: Singularity",
+  "ModVersion": "1.0",
+  "GameVersion": "1.25+",
+  "ThumbnailPath": "Cthumb.png",
+  "EntryPoint": "DBPu.DBPu",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "EntryDll.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3767131414"
+}

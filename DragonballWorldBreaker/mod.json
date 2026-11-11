@@ -1,0 +1,17 @@
+{
+  "Name": "Dragonball World Breaker",
+  "Author": "Local mod",
+  "Description": "Destructible terrain for explosions, heavy impacts and Dragonball ki attacks. Character-aware power, varied craters and frame-budgeted terrain chunks. F8: settings / repair.",
+  "ModVersion": "2.0.0",
+  "GameVersion": "1.27+",
+  "ThumbnailPath": "thumbnail.png",
+  "EntryPoint": "WorldBreakerLoader.Mod",
+  "Tags": [
+    "Fun"
+  ],
+  "Scripts": [
+    "Entry.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null
+}

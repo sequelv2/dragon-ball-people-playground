@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Belt",
+    "SpriteFile": "belt_1.png",
+    "AnchorX": 0.1285,
+    "AnchorY": 0.1286,
+    "LayerName": "Foreground",
+    "Order": 1,
+    "MinAngleFirstPiece": -15.0,
+    "MaxAngleFirstPiece": 32.0,
+    "MinAngle": -17.0,
+    "MaxAngle": 25.0,
+    "PieceMass": 0.0018,
+    "PieceInertia": 0.001,
+    "HasCollision": true,
+    "CollideJustWithGround": true
+  }
+]

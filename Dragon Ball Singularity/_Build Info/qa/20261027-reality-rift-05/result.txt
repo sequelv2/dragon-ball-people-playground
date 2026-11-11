@@ -1,0 +1,22 @@
+DBPU native ki combat QA started
+SCENE  -> Main
+QA ONLY: resumed native catalogue application after third-party startup exception; no mod settings changed
+QA ONLY: fixed damage/cost multipliers in this disposable process; no settings are saved
+PASS explicit foot-only ki kick/infusion, same-side leg aliases, default empty feet, real charge/hit/refund and native hand/share/sphere isolation
+PASS stock abilities, hand-only target validation, independent custom hands, shared native selection, repeated native selection, unknown ID rejection and empty hand suppression
+RIFT PIPELINE built-in / NVIDIA GeForce RTX 3060
+RIFT REFERENCE serializedPersonLimbs=0 actualChildLimbs=14 serializedHealthSum=500 prefabInitialHealthSum=0 startingHealthMean=35.7142857142857
+RIFT POWER threshold=8.92857142857143E+27 GogetaSSJ1=8.92857088830002E+27 UI=5.35714323290219E+27 UE=4.91071462945761E+28 weakBase=1.78571435586131E+17
+RIFT UI/UE configured eligibility=False; native power threshold takes precedence over form names
+PASS true form power, reserve independence, output, weak-side, no-contact and parallel-motion rejection
+SCREENSHOT 70-reality-impact-static-cracks.png 1920x1080
+SCREENSHOT 71-reality-transparent-pressure-sphere.png 1920x1080
+PASS actual two-fist commitment, scene capture, camera zoom, audio duck, user pause and .5 unscaled hitstop (observed 0.6805573 active seconds)
+SCREENSHOT 72-reality-animated-blender-shards.png 1920x1080
+SCREENSHOT 73-reality-crystalline-dimension.png 1920x1080
+SCREENSHOT 74-reality-final-hit-exit-flash.png 1920x1080
+PASS participant-only gravity/boundary, imported shards/realm, dynamic sprite reflection, strong-hit exit and physics/camera/audio/GPU resource restoration
+PASS native Energy Wave prefabs, tip colliders and BeamComponent.BeamClash integration at the exact real Gogeta SSJ1 threshold
+PASS full eighteen-active-second dimension timeout and automatic cleanup
+PASS destroyed-fighter cancellation while paused, surviving physics, pause/audio ownership and renderer cleanup
+ALL REALITY RIFT NATIVE CLASH, POWER, PHASE, PHYSICS, VISUAL AND RESTORATION CHECKS PASSED

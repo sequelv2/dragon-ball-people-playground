@@ -1,0 +1,84 @@
+{
+  "Id": "20261027-reality-rift-reference",
+  "CreatedAt": "2026-10-27T14:53:13.9563812+02:00",
+  "Status": "installed-native-verified",
+  "InstalledMod": "C:\\Program Files (x86)\\People Playground\\Mods\\$RW9JQP2",
+  "FullSnapshot": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\backups\\full\\20261027-reality-rift-reference\\DBPU",
+  "SnapshotManifest": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\backups\\full\\20261027-reality-rift-reference\\DBPU\\PACKAGE-MANIFEST.json",
+  "SnapshotManifestSHA256": "AAD4CD6066F1C1E06AD9AE4BA02CCB5D790DC4F8978B687431783C0D7F56C809",
+  "PreviousDLLSHA256": "8E4573D0B03B18A39476785460C3365A80485F978BDAAFBF0DA95F7329113A32",
+  "PreviousUpdate": "20261027-reality-rift-power",
+  "SettingsStates": [
+    {
+      "Name": "DBPU_Configs.json",
+      "Present": true,
+      "SHA256": "1421C0F302606DEDD21254B01BAE32B7FB17C4A6EF34CB4D6F12ED3345E08ECD"
+    },
+    {
+      "Name": "DBPU_CharacterPowers.json",
+      "Present": true,
+      "SHA256": "7405A50D1490E1842AB96BFD88368F69EA5CADCBC584535174DF63A9050616B6"
+    },
+    {
+      "Name": "DBPU_CustomTransformations.json",
+      "Present": true,
+      "SHA256": "A0C5F0847B3399C89FBE905080BEA8E9EE0E2659C0F27383F671EFDF346D1140"
+    },
+    {
+      "Name": "DBPU_WorkshopLocal.json",
+      "Present": false,
+      "SHA256": null
+    }
+  ],
+  "ChangedFiles": [
+    "dragon ball.dll",
+    "Assets/scripts/RealityRiftRuntime.cs",
+    "Assets/scripts/RealityRiftQa.cs"
+  ],
+  "ReferenceVideo": "C:\\Users\\zippe\\Videos\\NVIDIA\\Desktop\\Desktop 2026.10.27 - 12.53.32.01.mp4",
+  "ReferenceImage": "C:/Users/zippe/AppData/Local/Temp/codex-clipboard-777f83e9-4ebf-4e3f-8de6-0710999ee369.png",
+  "InstalledAt": "2026-10-27T14:53:26.4614807+02:00",
+  "InstalledDLLSHA256": "B8F488A4A5C5BF60FF0A63D60C2AF6773FAE69541D7A52379BB2C514B9B72FA6",
+  "IncomingPayload": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\incoming\\20261027-reality-rift-reference\\payload",
+  "InputManifest": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\incoming\\20261027-reality-rift-reference\\INPUT-MANIFEST.json",
+  "InstallationVerification": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\incoming\\20261027-reality-rift-reference\\INSTALLATION-VERIFICATION.json",
+  "ChangeManifest": [
+    {
+      "Path": "dragon ball.dll",
+      "PreviousSHA256": "8E4573D0B03B18A39476785460C3365A80485F978BDAAFBF0DA95F7329113A32",
+      "SHA256": "B8F488A4A5C5BF60FF0A63D60C2AF6773FAE69541D7A52379BB2C514B9B72FA6",
+      "Introduced": false,
+      "Bytes": 2139136
+    },
+    {
+      "Path": "Assets/scripts/RealityRiftRuntime.cs",
+      "PreviousSHA256": "569AD6409A534313C856BB3858E85BF3DA9BC48ABA1165319BA0AD4FA2047B92",
+      "SHA256": "D283E79D42A0FCB3D9C13F31A23179F258CBFC2ED9E428E4FEA57C4B9970A111",
+      "Introduced": false,
+      "Bytes": 24298
+    },
+    {
+      "Path": "Assets/scripts/RealityRiftQa.cs",
+      "PreviousSHA256": "E82F73CE7EC2ED583919BE94FFF5DEB1C0983750374F75D47E690034613B8D98",
+      "SHA256": "65FDC0CA2C180321177C7C22A550F6F83739FED865A8F174BCACF640EB14D205",
+      "Introduced": false,
+      "Bytes": 30265
+    }
+  ],
+  "VerifiedAt": "2026-10-27T15:03:43.068331+02:00",
+  "Feature": "Reality Rift from real opposing attacks at or above configured Gogeta SSJ1",
+  "FeatureBaseSnapshot": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\backups\\full\\20261027-reality-rift\\DBPU",
+  "FeatureBaseManifest": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\backups\\full\\20261027-reality-rift\\DBPU\\PACKAGE-MANIFEST.json",
+  "IntermediateUpdateIds": [
+    "20261027-reality-rift",
+    "20261027-reality-rift-loader",
+    "20261027-reality-rift-cinematic",
+    "20261027-reality-rift-power"
+  ],
+  "QaFolder": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\qa\\20261027-reality-rift-05",
+  "RegressionQaFolder": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\qa\\20261027-reality-rift-regression",
+  "QaResult": "ALL REALITY RIFT NATIVE CLASH, POWER, PHASE, PHYSICS, VISUAL AND RESTORATION CHECKS PASSED",
+  "RegressionResult": "ALL KI FIST, SHIELD AND HUD CHECKS PASSED",
+  "FinalVerification": "C:\\Users\\zippe\\Documents\\ChatGPT\\DBPU 2\\qa\\20261027-reality-rift-final-verification.json",
+  "InstalledBundleSHA256": "1F0FCA90F37376BA9BC6FC3613BC99AC626D36B9214B7FF6A354264B1534322C"
+}

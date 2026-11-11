@@ -1,0 +1,15 @@
+{
+  "source": "MajinFlesh.blend",
+  "authoring": "Blender 5.2.3 LTS",
+  "variants": 8,
+  "frames": 24,
+  "fps": 24,
+  "tile": 128,
+  "atlas": [
+    3072,
+    1024
+  ],
+  "variant_row_zero": "top",
+  "normals": "camera x-right y-up z-toward-viewer, encoded normal*0.5+0.5",
+  "albedo_color_space": "linear grayscale AO, Unity supplies pink/gray flesh colour"
+}
